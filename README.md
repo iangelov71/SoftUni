@@ -7,4 +7,4 @@ by Ivo Angelov 💻©
 - Programing Basics
 - Porgraming Fundamentals
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
