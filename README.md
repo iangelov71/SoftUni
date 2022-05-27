@@ -7,4 +7,4 @@ by Ivo Angelov 💻©
 - Programing Basics
 - Porgraming Fundamentals
 
-![alt text](http://data/to/img.png)
+![alt text](https://github.com/[iangelov71]/[SoftUni]/blob/[main]/image.jpg?raw=true)
