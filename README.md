@@ -1,5 +1,5 @@
 # SoftUni
-This is Demo repository for SoftUni
+This is Demo repository for SoftUni.
 
 by Ivo Angelov 💻©
 
