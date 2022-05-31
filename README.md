@@ -1,5 +1,5 @@
 # SoftUni
-This is some solved problems from Softuni courses.
+This is Demo repository for SoftUni
 
 by Ivo Angelov 💻©
 
